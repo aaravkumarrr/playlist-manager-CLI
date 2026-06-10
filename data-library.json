@@ -1,0 +1,142 @@
+[
+    {
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "genre": "Pop",
+      "duration": "3:20",
+      "bpm": 171
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "genre": "Pop",
+      "duration": "3:23",
+      "bpm": 103
+    },
+    {
+      "title": "HUMBLE.",
+      "artist": "Kendrick Lamar",
+      "genre": "Hip-Hop",
+      "duration": "2:57",
+      "bpm": 150
+    },
+    {
+      "title": "Bad Guy",
+      "artist": "Billie Eilish",
+      "genre": "Pop",
+      "duration": "3:14",
+      "bpm": 135
+    },
+    {
+      "title": "God's Plan",
+      "artist": "Drake",
+      "genre": "Hip-Hop",
+      "duration": "3:18",
+      "bpm": 77
+    },
+    {
+      "title": "Rockstar",
+      "artist": "Post Malone",
+      "genre": "Hip-Hop",
+      "duration": "3:39",
+      "bpm": 160
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "genre": "Pop",
+      "duration": "3:53",
+      "bpm": 96
+    },
+    {
+      "title": "Stay",
+      "artist": "The Kid LAROI",
+      "genre": "Pop",
+      "duration": "2:21",
+      "bpm": 170
+    },
+    {
+      "title": "Sunflower",
+      "artist": "Post Malone",
+      "genre": "Pop",
+      "duration": "2:38",
+      "bpm": 90
+    },
+    {
+      "title": "Industry Baby",
+      "artist": "Lil Nas X",
+      "genre": "Hip-Hop",
+      "duration": "3:32",
+      "bpm": 149
+    },
+    {
+      "title": "Heat Waves",
+      "artist": "Glass Animals",
+      "genre": "Indie",
+      "duration": "3:59",
+      "bpm": 80
+    },
+    {
+      "title": "Lose Yourself",
+      "artist": "Eminem",
+      "genre": "Hip-Hop",
+      "duration": "5:26",
+      "bpm": 171
+    },
+    {
+      "title": "Midnight Rain",
+      "artist": "Taylor Swift",
+      "genre": "Pop",
+      "duration": "2:53",
+      "bpm": 178
+    },
+    {
+      "title": "As It Was",
+      "artist": "Harry Styles",
+      "genre": "Indie",
+      "duration": "2:37",
+      "bpm": 174
+    },
+    {
+      "title": "Sweater Weather",
+      "artist": "The Neighbourhood",
+      "genre": "Indie",
+      "duration": "4:00",
+      "bpm": 124
+    },
+    {
+      "title": "Cigarettes After Sex",
+      "artist": "Cigarettes After Sex",
+      "genre": "Indie",
+      "duration": "4:38",
+      "bpm": 67
+    },
+    {
+      "title": "Starboy",
+      "artist": "The Weeknd",
+      "genre": "R&B",
+      "duration": "3:50",
+      "bpm": 186
+    },
+    {
+      "title": "Essence",
+      "artist": "Wizkid",
+      "genre": "Afrobeats",
+      "duration": "4:04",
+      "bpm": 109
+    },
+    {
+      "title": "Peaches",
+      "artist": "Justin Bieber",
+      "genre": "R&B",
+      "duration": "3:18",
+      "bpm": 90
+    },
+    {
+      "title": "Anti-Hero",
+      "artist": "Taylor Swift",
+      "genre": "Pop",
+      "duration": "3:20",
+      "bpm": 97
+    }
+  ]
